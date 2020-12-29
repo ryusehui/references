@@ -8,7 +8,7 @@ REFERENCE
 css flexible
 ------------
 &reference
-- <a href="https://heropy.blog/2018/11/24/css-flexible-box/" target="_blank">flexible reference</a>
+- [flexible reference](https://heropy.blog/2018/11/24/css-flexible-box/)
 
 css units
 ------------
@@ -45,4 +45,4 @@ css units
     보다 정교하게 정렬하기 위해 위첨자는 bottom: 1ex;로 아래첨자는 bottom: -1ex;로 지정
 
 &reference
-- <a href="https://webclub.tistory.com/356" target="_blank">units reference</a>
+- [units reference](https://webclub.tistory.com/356)
