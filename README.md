@@ -10,6 +10,6 @@ MARKs
   - [MVVM](https://github.com/ryusehui/references/blob/main/patterns/MVVM.md)
 ---
 - [android](https://github.com/ryusehui/references/blob/main/android)
-  - [android refers](https://github.com/ryusehui/references/blob/main/android/project-structure.md)
+  - [project structure](https://github.com/ryusehui/references/blob/main/android/project-structure.md)
 ---
 - [code style guide](https://github.com/ryusehui/references/tree/main/code-style-guide)
