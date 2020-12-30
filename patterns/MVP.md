@@ -29,7 +29,7 @@ PATTERN MVP
 #### 4. 장단점
 - 장점: presenter를 통해서만 데이터를 전달받기 때문에 view와 model의 의존성이 없음
 - 단점: 앱이 복잡해질수록 view와 presenter 사이의 의존성이 높아짐
-
+---
 &reference   
-[todoMVP - google architecture sample](https://github.com/android/architecture-samples/tree/todo-mvp)   
-[site](https://beomy.tistory.com/43)
+- [todoMVP - google architecture sample](https://github.com/android/architecture-samples/tree/todo-mvp)   
+- [site](https://beomy.tistory.com/43)
