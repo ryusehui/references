@@ -1,6 +1,7 @@
 PATTERN MVP
 ===========
 ![MVP pattern](/image/Model_View_Presenter_GUI_Design_Pattern.png)
+![MVP pattern](/image/MVP.png)
 
 ## 모델-뷰-프리젠터
 - MVC(Model-View-Controller) 아키텍처 패턴의 파생 패턴(Controller 대신 Presenter가 존재)
