@@ -27,6 +27,5 @@ PATTERN MVC
 - 장점: 가장 단순한 패턴
 - 단점: view와 model 사이의 의존성이 높아 앱이 커질수록 복잡해지고 유지보수가 어려워질 
 
-&reference   
-[todoMVP - google architecture sample](https://github.com/android/architecture-samples/tree/todo-mvp)   
+&reference    
 [site](https://beomy.tistory.com/43)
