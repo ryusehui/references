@@ -1,5 +1,5 @@
 프로젝트 구조
-------------
+=============
 
 안드로이드 스튜디오 프로젝트 구조
 - manifest, java, res, Gradle Scripts
