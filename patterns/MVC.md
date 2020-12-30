@@ -28,4 +28,4 @@ PATTERN MVC
 - 단점: view와 model 사이의 의존성이 높아 앱이 커질수록 복잡해지고 유지보수가 어려워질 수 있음
 ---
 &reference    
-[site](https://beomy.tistory.com/43)
+- [site](https://beomy.tistory.com/43)
