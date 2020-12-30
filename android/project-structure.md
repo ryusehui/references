@@ -29,6 +29,6 @@ MainActivity.java 파일이 존재하는데 어플리케이션을 실행하면 M
 - 이클립스는maven을 주로 사용하지만 안드로이드 스튜디오는 gradle을 사용
 
 &reference   
-[site](https://m.blog.naver.com/PostView.nhn?blogId=khrock89&logNo=220918924049&proxyReferer=https:%2F%2Fwww.google.com%2F)   
-[android developer](https://developer.android.com/training/basics/firstapp/creating-project.html)   
-[manifest intro](https://developer.android.com/guide/topics/manifest/manifest-intro.html)
+- [site](https://m.blog.naver.com/PostView.nhn?blogId=khrock89&logNo=220918924049&proxyReferer=https:%2F%2Fwww.google.com%2F)   
+- [android developer](https://developer.android.com/training/basics/firstapp/creating-project.html)   
+- [manifest intro](https://developer.android.com/guide/topics/manifest/manifest-intro.html)
