@@ -27,6 +27,6 @@ PATTERN MVVM
         [Command 패턴](https://ko.wikipedia.org/wiki/%EC%BB%A4%EB%A7%A8%EB%93%9C_%ED%8C%A8%ED%84%B4)과 [Data Binding 패턴](https://en.wikipedia.org/wiki/Data_binding)을 사용하여 View와 View Model 사이의 의존성 또한 없앰   
         각각 독립적이기 때문에 모듈화 하여 개발 가능
 - 단점: view model의 설계가 쉽지 않음 
-
+---
 &reference    
-[site](https://beomy.tistory.com/43)
+- [site](https://beomy.tistory.com/43)
