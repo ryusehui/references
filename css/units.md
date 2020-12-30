@@ -32,6 +32,6 @@ css units
     - 폰트의 중간 지점을 알아내기 위해 자주 사용
     - 브라우저는 위첨자와 아래첨자를 vercial-align으로 정의하고 있지만   
     보다 정교하게 정렬하기 위해 위첨자는 bottom: 1ex;로 아래첨자는 bottom: -1ex;로 지정
-
+---
 &reference
 - [units reference](https://webclub.tistory.com/356)
