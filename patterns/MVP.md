@@ -53,5 +53,7 @@ PATTERN MVP
 ---
 &reference   
 - [todoMVP - google architecture sample](https://github.com/android/architecture-samples/tree/todo-mvp)   
+  - [todoMVP - 해설1](https://m.youtube.com/watch?v=ad3aC4ddpEk)
+  - [todoMVP - 해설2](https://m.youtube.com/watch?v=gLs82AUUJZ4)
 - [site1](https://beomy.tistory.com/43)
 - [site2](https://awesometic.tistory.com/32?category=1046310)
