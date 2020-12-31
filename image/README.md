@@ -1,6 +1,9 @@
 파일 분류
 =========
 
+> LIFE CYCLE
+- [android develop lifecycle](https://github.com/ryusehui/references/blob/main/image/android-develop-lifecycle.png)
+
 ### Patterns
 
 > MVC
