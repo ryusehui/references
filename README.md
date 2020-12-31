@@ -6,7 +6,7 @@ MARKs
 ---
 - [pattern](https://github.com/ryusehui/references/tree/main/patterns)
   - [MVC](https://github.com/ryusehui/references/blob/main/patterns/MVC.md)
-  - [MVP](https://github.com/ryusehui/references/blob/main/patterns/MVP/MVP.md)
+  - [MVP](https://github.com/ryusehui/references/blob/main/patterns/MVP.md)
   - [MVVM](https://github.com/ryusehui/references/blob/main/patterns/MVVM.md)
 ---
 - [android](https://github.com/ryusehui/references/blob/main/android)
