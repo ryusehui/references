@@ -1,5 +1,6 @@
 Android Develop Lifecycle
 =========================
+### Activity Lifecycle
 ![activity lifecycle](/image/activity-lifecycle.png)
 
 onCreate() <b>필수</b>
@@ -40,6 +41,7 @@ onDestroy()
 - Activity가 완전히 소멸될 때 호출됨
 - 사용자가 종료 or 시스템에서 메모리 절약을 위해 강제적으로 종료
 
+### Fragment Lifecycle
 ![fragment lifecycle](/image/fragment-lifecycle.png)
 
 Fragment는 Activity 내에 존재하며   
