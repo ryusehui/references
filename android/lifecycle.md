@@ -2,7 +2,7 @@ Android Develop Lifecycle
 =========================
 ![activity lifecycle](/image/activity-lifecycle.png)
 
-onCreate()
+onCreate() <b>필수</b>
 - Activity가 처음 생성될 때 호출됨
 - 매개변수인 savedInstanceState를 통해 이전 상태를 불러옴
 - Activity에 필요한 구성 요소들을 초기화
@@ -48,13 +48,13 @@ Fragment를 Activity에 생성하여 하나의 Activity에 여러 개의 화면�
 onAttach()
 - Fragment가 Activity에 연결될 때 호출됨
 
-onCreate()
+onCreate() <b>필수</b>
 - Fragment가 처음 생성될 때 호출됨
 - 리소스들 초기화
 - 생성 시 넘겨받은 값들이 있다면 해당 구간에서 변수에 할당
 - 해당 구간에서는 UI에 대한 작업 불가능
 
-onCreateView()
+onCreateView() <b>필수</b>
 - Fragment의 layout을 inflate하여 View 객체를 얻을 수 있음
 - View와 관련된 버튼이나 TextView와 같은 구성요소들 초기화 가능
 
@@ -68,7 +68,7 @@ onStart()
 onResume()
 - Fragment가 사용자와 상호작용을 하기 바로 직전에 호출됨
 
-onPause()
+onPause() <b>필수</b>
 - Fragment or Activity의 교체 등으로 인해 다른 Fragment가 화면을 가리게 되어 기존 Fragment가 사라지기 시작할 때 호출됨
 - 사용자와의 상호작용 중지, 기존 layout은 back stack으로 들어감
 
