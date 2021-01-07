@@ -2,7 +2,8 @@
 =========
 
 > LIFE CYCLE
-- [android develop lifecycle](https://github.com/ryusehui/references/blob/main/image/android-develop-lifecycle.png)
+- [android activity lifecycle](https://github.com/ryusehui/references/blob/main/image/activity-lifecycle.png)
+- [android fragment lifecycle](https://github.com/ryusehui/references/blob/main/image/fragment-lifecycle.png)
 
 ### Patterns
 
