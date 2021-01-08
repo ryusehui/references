@@ -1,5 +1,13 @@
 Android Develop Lifecycle
 =========================
+
+#### Activity와 Fragment
+- 계층: Activity < Fragment < View
+- Fragment는 Activity와 View를 합친것
+- Fragment와 View는 Activity가 있어야 존재할 수 있음
+- Activity의 한계로 인해 Fragment가 필요함
+- Fragment를 사용함으로써 Activity를 변경하지 않아도 쉽게 View를 변경할 수 있음
+
 ### Activity Lifecycle
 ![activity lifecycle](/image/activity-lifecycle.png)
 
