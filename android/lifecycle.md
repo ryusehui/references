@@ -92,4 +92,5 @@ onDetach()
 - Fragment가 Activity와 연결이 끊기기 직전에 호출됨
 ---
 &reference
-- [site](https://re-build.tistory.com/4)
+- [Activity와 Fragment](https://re-build.tistory.com/4)
+- [생명주기](https://milkye.tistory.com/60)
